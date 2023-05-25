@@ -1,5 +1,10 @@
 # Qfon:Fight Good to Go
 
+### Set-Up Project
+https://github.com/Jdbarad/QfonApp/blame/6ddb5a92556365ec2711974ebf7df83f854734f5/app/src/main/java/com/builditcreative/qfonapp/data/DependencyProvider.kt#L25-30
+
+Add your Base Url
+
 ## Dependency 
 ### Retrofit
 A type-safe HTTP client for Android and the JVM
