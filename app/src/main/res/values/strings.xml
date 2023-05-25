@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QfonApp</string>
+    <string name="search_bar">Search Bar</string>
+    <string name="search">Search</string>
+    <string name="passenger_details">Passenger Details</string>
+    <string name="passenger_id">Passenger Id</string>
+    <string name="passenger_name">Passenger Name</string>
+    <string name="trips">Trips</string>
+    <string name="airline_details">Airline Details</string>
+    <string name="airline_name">AirLine Name</string>
+    <string name="airline_slogan">Airline Slogan</string>
+    <string name="head_quater">Head Quater</string>
+    <string name="establish">Establish</string>
+    <string name="country">Country</string>
+</resources>
